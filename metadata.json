@@ -1,0 +1,6 @@
+{
+  "name": "کالری‌یار",
+  "description": "دستیار لاغری، کالری‌شمار غذاهای ایرانی، رژیم هوشمند آفلاین، ردیاب آب و گردونه شانس تندرستی",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
